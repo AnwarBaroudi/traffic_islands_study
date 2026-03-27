@@ -2,33 +2,8 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2026-03-16T22:53:37Z",
+  "timestamp": "2026-03-27T00:56:34Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/189026786",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "lit": "yes",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2705956,
-            37.8514198
-          ],
-          [
-            -122.2706147,
-            37.8513247
-          ]
-        ]
-      },
-      "id": "way/189026786"
-    },
     {
       "type": "Feature",
       "properties": {
@@ -149,6 +124,76 @@
         ]
       },
       "id": "way/685050158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986741001",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2130821,
+            37.7714907
+          ],
+          [
+            -122.2130725,
+            37.7715033
+          ],
+          [
+            -122.2130601,
+            37.7715194
+          ]
+        ]
+      },
+      "id": "way/986741001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986741002",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2128903,
+            37.7713985
+          ],
+          [
+            -122.2128604,
+            37.7714236
+          ]
+        ]
+      },
+      "id": "way/986741002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986741016",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2107487,
+            37.7703868
+          ],
+          [
+            -122.2107264,
+            37.7704164
+          ]
+        ]
+      },
+      "id": "way/986741016"
     },
     {
       "type": "Feature",
@@ -429,54 +474,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1039209331",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2789401,
-            37.8625445
-          ],
-          [
-            -122.2788479,
-            37.8625577
-          ],
-          [
-            -122.2788295,
-            37.8625611
-          ]
-        ]
-      },
-      "id": "way/1039209331"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1039209332",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2788429,
-            37.8625436
-          ],
-          [
-            -122.2788479,
-            37.8625577
-          ]
-        ]
-      },
-      "id": "way/1039209332"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/1047285806",
         "crossing:island": "yes",
         "footway": "traffic_island",
@@ -521,28 +518,6 @@
         ]
       },
       "id": "way/1047285807"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1051069072",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2893107,
-            37.839401
-          ],
-          [
-            -122.2893184,
-            37.8393814
-          ]
-        ]
-      },
-      "id": "way/1051069072"
     },
     {
       "type": "Feature",
@@ -1087,88 +1062,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1155683400",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "concrete",
-        "tactile_paving": "no"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2729078,
-            37.8706543
-          ],
-          [
-            -122.2729428,
-            37.8706488
-          ]
-        ]
-      },
-      "id": "way/1155683400"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1155683402",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "concrete",
-        "tactile_paving": "no"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2729218,
-            37.8705235
-          ],
-          [
-            -122.2728909,
-            37.8705259
-          ]
-        ]
-      },
-      "id": "way/1155683402"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1155686454",
-        "bicycle": "dismount",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "motor_vehicle": "no",
-        "surface": "concrete",
-        "tactile_paving": "no"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2679359,
-            37.8702714
-          ],
-          [
-            -122.2679312,
-            37.8702728
-          ],
-          [
-            -122.2678408,
-            37.870285
-          ],
-          [
-            -122.2678357,
-            37.8702844
-          ]
-        ]
-      },
-      "id": "way/1155686454"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/1171036640",
         "footway": "traffic_island",
         "highway": "footway",
@@ -1349,8 +1242,52 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1361562341",
-        "bicycle": "yes",
+        "@id": "way/1297262678",
+        "footway": "traffic_island",
+        "highway": "footway",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1900989,
+            37.7310266
+          ],
+          [
+            -122.1900742,
+            37.7309894
+          ]
+        ]
+      },
+      "id": "way/1297262678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1301184681",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1965347,
+            37.7528751
+          ],
+          [
+            -122.1964989,
+            37.7528529
+          ]
+        ]
+      },
+      "id": "way/1301184681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1301184803",
         "footway": "traffic_island",
         "highway": "footway",
         "surface": "paved"
@@ -1359,54 +1296,47 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2768304,
-            37.7834795
+            -122.2051128,
+            37.7549596
           ],
           [
-            -122.2768296,
-            37.7835202
+            -122.2051013,
+            37.7549452
           ],
           [
-            -122.2768116,
-            37.7835579
+            -122.2049905,
+            37.7549159
           ],
           [
-            -122.276833,
-            37.7835686
+            -122.2049656,
+            37.7549143
           ]
         ]
       },
-      "id": "way/1361562341"
+      "id": "way/1301184803"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1373247291",
+        "@id": "way/1301184804",
         "footway": "traffic_island",
-        "highway": "footway"
+        "highway": "footway",
+        "surface": "paved"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -122.2765033,
-            37.7879986
+            -122.2051101,
+            37.7549371
           ],
           [
-            -122.2764667,
-            37.7879984
-          ],
-          [
-            -122.2764564,
-            37.7879984
-          ],
-          [
-            -122.2764033,
-            37.7879557
+            -122.2051013,
+            37.7549452
           ]
         ]
       },
-      "id": "way/1373247291"
+      "id": "way/1301184804"
     },
     {
       "type": "Feature",
@@ -1439,7 +1369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1408563455",
+        "@id": "way/1448321457",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -1447,21 +1377,21 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2630844,
-            37.7768827
+            -122.1755105,
+            37.7649947
           ],
           [
-            -122.2630941,
-            37.7768529
+            -122.1756224,
+            37.7649213
           ]
         ]
       },
-      "id": "way/1408563455"
+      "id": "way/1448321457"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1408563456",
+        "@id": "way/1448321461",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -1469,21 +1399,21 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2631111,
-            37.7768771
+            -122.1756372,
+            37.7650618
           ],
           [
-            -122.2630844,
-            37.7768827
+            -122.1756892,
+            37.7650316
           ]
         ]
       },
-      "id": "way/1408563456"
+      "id": "way/1448321461"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1408568723",
+        "@id": "way/1448321489",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -1491,21 +1421,21 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2764667,
-            37.7879984
+            -122.1772287,
+            37.7657178
           ],
           [
-            -122.2764668,
-            37.7880076
+            -122.1772138,
+            37.7657081
           ]
         ]
       },
-      "id": "way/1408568723"
+      "id": "way/1448321489"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1408568724",
+        "@id": "way/1448321492",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -1513,29 +1443,21 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2767755,
-            37.7882424
+            -122.1771935,
+            37.7660125
           ],
           [
-            -122.2767511,
-            37.7882276
-          ],
-          [
-            -122.2767493,
-            37.7882088
-          ],
-          [
-            -122.2767469,
-            37.7881834
+            -122.1772666,
+            37.7659391
           ]
         ]
       },
-      "id": "way/1408568724"
+      "id": "way/1448321492"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1408568725",
+        "@id": "way/1448321495",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -1543,21 +1465,21 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2767493,
-            37.7882088
+            -122.1769015,
+            37.7659842
           ],
           [
-            -122.2767173,
-            37.7882073
+            -122.1769186,
+            37.765994
           ]
         ]
       },
-      "id": "way/1408568725"
+      "id": "way/1448321495"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1428004605",
+        "@id": "way/1448321498",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -1565,367 +1487,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2451235,
-            37.8581476
+            -122.1769481,
+            37.7656937
           ],
           [
-            -122.2451569,
-            37.8581459
+            -122.1768646,
+            37.7657811
           ]
         ]
       },
-      "id": "way/1428004605"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447673443",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2893107,
-            37.839401
-          ],
-          [
-            -122.2892667,
-            37.8393917
-          ]
-        ]
-      },
-      "id": "way/1447673443"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447673444",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2893041,
-            37.8394178
-          ],
-          [
-            -122.2893107,
-            37.839401
-          ]
-        ]
-      },
-      "id": "way/1447673444"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447902707",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2687397,
-            37.8550263
-          ],
-          [
-            -122.2687214,
-            37.8550663
-          ]
-        ]
-      },
-      "id": "way/1447902707"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447902708",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2693019,
-            37.8544295
-          ],
-          [
-            -122.2693392,
-            37.8544172
-          ]
-        ]
-      },
-      "id": "way/1447902708"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447902710",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2694102,
-            37.8543956
-          ],
-          [
-            -122.2693991,
-            37.8543998
-          ],
-          [
-            -122.2693392,
-            37.8544172
-          ],
-          [
-            -122.2693374,
-            37.8544374
-          ]
-        ]
-      },
-      "id": "way/1447902710"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447902713",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2687799,
-            37.8550084
-          ],
-          [
-            -122.2687397,
-            37.8550263
-          ]
-        ]
-      },
-      "id": "way/1447902713"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447908354",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2698408,
-            37.8526287
-          ],
-          [
-            -122.2698926,
-            37.8526406
-          ]
-        ]
-      },
-      "id": "way/1447908354"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447913610",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "lit": "yes",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2706476,
-            37.8513236
-          ],
-          [
-            -122.2706147,
-            37.8513247
-          ],
-          [
-            -122.2706068,
-            37.8513185
-          ]
-        ]
-      },
-      "id": "way/1447913610"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447913613",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "lit": "yes",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2705393,
-            37.8512658
-          ],
-          [
-            -122.2705118,
-            37.8512452
-          ]
-        ]
-      },
-      "id": "way/1447913613"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447913910",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2522221,
-            37.8686176
-          ],
-          [
-            -122.2521586,
-            37.8686258
-          ]
-        ]
-      },
-      "id": "way/1447913910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447931282",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2707839,
-            37.8533297
-          ],
-          [
-            -122.2707855,
-            37.85335
-          ]
-        ]
-      },
-      "id": "way/1447931282"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447931285",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2709809,
-            37.8532326
-          ],
-          [
-            -122.2709309,
-            37.8532363
-          ]
-        ]
-      },
-      "id": "way/1447931285"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1447931291",
-        "bicycle": "permissive",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "lit": "yes",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2708857,
-            37.8525535
-          ],
-          [
-            -122.2708944,
-            37.8525532
-          ],
-          [
-            -122.2709068,
-            37.8525527
-          ]
-        ]
-      },
-      "id": "way/1447931291"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1448112205",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "concrete",
-        "tactile_paving": "yes"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2672417,
-            37.8594783
-          ],
-          [
-            -122.2672515,
-            37.8595028
-          ],
-          [
-            -122.2672635,
-            37.8595329
-          ]
-        ]
-      },
-      "id": "way/1448112205"
+      "id": "way/1448321498"
     },
     {
       "type": "Feature",
@@ -1992,29 +1563,6 @@
         ]
       },
       "id": "way/1449281023"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1449282358",
-        "foot": "yes",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2724609,
-            37.8467385
-          ],
-          [
-            -122.2723738,
-            37.8466881
-          ]
-        ]
-      },
-      "id": "way/1449282358"
     },
     {
       "type": "Feature",
@@ -2105,75 +1653,6 @@
         ]
       },
       "id": "way/1449285737"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1449314234",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2790548,
-            37.8283718
-          ],
-          [
-            -122.2790008,
-            37.8283652
-          ]
-        ]
-      },
-      "id": "way/1449314234"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1449314252",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2791061,
-            37.8286578
-          ],
-          [
-            -122.2791315,
-            37.8285983
-          ]
-        ]
-      },
-      "id": "way/1449314252"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1449314254",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "concrete"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2792639,
-            37.8290087
-          ],
-          [
-            -122.2792379,
-            37.8290651
-          ]
-        ]
-      },
-      "id": "way/1449314254"
     },
     {
       "type": "Feature",
@@ -2288,6 +1767,30 @@
         ]
       },
       "id": "way/1449566258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449566667",
+        "footway": "traffic_island",
+        "highway": "footway",
+        "surface": "concrete",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1961543,
+            37.7474287
+          ],
+          [
+            -122.1961128,
+            37.7474287
+          ]
+        ]
+      },
+      "id": "way/1449566667"
     },
     {
       "type": "Feature",
@@ -2946,6 +2449,72 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1449932081",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1794594,
+            37.7680544
+          ],
+          [
+            -122.1795138,
+            37.7680214
+          ]
+        ]
+      },
+      "id": "way/1449932081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449932085",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1795946,
+            37.7681564
+          ],
+          [
+            -122.1795443,
+            37.7681886
+          ]
+        ]
+      },
+      "id": "way/1449932085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449932095",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.17579,
+            37.7668268
+          ],
+          [
+            -122.1757766,
+            37.7668143
+          ]
+        ]
+      },
+      "id": "way/1449932095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1449932131",
         "footway": "traffic_island",
         "highway": "footway"
@@ -3091,6 +2660,32 @@
         ]
       },
       "id": "way/1449935292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449935689",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.174804,
+            37.7693846
+          ],
+          [
+            -122.1747785,
+            37.769379
+          ],
+          [
+            -122.1747584,
+            37.7693745
+          ]
+        ]
+      },
+      "id": "way/1449935689"
     },
     {
       "type": "Feature",
@@ -3420,6 +3015,30 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1449939829",
+        "bicycle": "designated",
+        "foot": "designated",
+        "footway": "traffic_island",
+        "highway": "cycleway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3119053,
+            37.8087959
+          ],
+          [
+            -122.311939,
+            37.8087274
+          ]
+        ]
+      },
+      "id": "way/1449939829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1449939887",
         "footway": "traffic_island",
         "highway": "footway"
@@ -3486,6 +3105,143 @@
         ]
       },
       "id": "way/1449940526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449942232",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2086418,
+            37.7693524
+          ],
+          [
+            -122.208617,
+            37.7693834
+          ]
+        ]
+      },
+      "id": "way/1449942232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449942236",
+        "footway": "traffic_island",
+        "highway": "footway",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2089071,
+            37.7695023
+          ],
+          [
+            -122.2088996,
+            37.7695126
+          ],
+          [
+            -122.2088899,
+            37.769526
+          ]
+        ]
+      },
+      "id": "way/1449942236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449942238",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2114899,
+            37.7707761
+          ],
+          [
+            -122.2115057,
+            37.7707563
+          ]
+        ]
+      },
+      "id": "way/1449942238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449942240",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2116067,
+            37.7709458
+          ],
+          [
+            -122.2115513,
+            37.7709197
+          ]
+        ]
+      },
+      "id": "way/1449942240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449942242",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.211549,
+            37.7706893
+          ],
+          [
+            -122.2115568,
+            37.7706774
+          ]
+        ]
+      },
+      "id": "way/1449942242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449942256",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2098602,
+            37.7699671
+          ],
+          [
+            -122.2098384,
+            37.7699973
+          ]
+        ]
+      },
+      "id": "way/1449942256"
     },
     {
       "type": "Feature",
@@ -3794,6 +3550,98 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1449948084",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2161741,
+            37.7728412
+          ],
+          [
+            -122.2161522,
+            37.7728573
+          ]
+        ]
+      },
+      "id": "way/1449948084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449949975",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2179046,
+            37.7737863
+          ],
+          [
+            -122.2178804,
+            37.773817
+          ]
+        ]
+      },
+      "id": "way/1449949975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449950417",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2349273,
+            37.7733255
+          ],
+          [
+            -122.2349508,
+            37.7733352
+          ]
+        ]
+      },
+      "id": "way/1449950417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449950419",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2349434,
+            37.7733644
+          ],
+          [
+            -122.2349508,
+            37.7733352
+          ],
+          [
+            -122.2349678,
+            37.7733357
+          ]
+        ]
+      },
+      "id": "way/1449950419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1449950467",
         "footway": "traffic_island",
         "highway": "footway"
@@ -3812,6 +3660,32 @@
         ]
       },
       "id": "way/1449950467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449951029",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2161466,
+            37.772827
+          ],
+          [
+            -122.2161741,
+            37.7728412
+          ],
+          [
+            -122.2161982,
+            37.7728536
+          ]
+        ]
+      },
+      "id": "way/1449951029"
     },
     {
       "type": "Feature",
@@ -3904,7 +3778,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1449956031",
+        "@id": "way/1449955928",
         "footway": "traffic_island",
         "highway": "footway"
       },
@@ -3912,39 +3786,492 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2795383,
-            37.8298501
+            -122.2360891,
+            37.7737912
           ],
           [
-            -122.2794892,
-            37.8298368
+            -122.2360557,
+            37.7737691
           ]
         ]
       },
-      "id": "way/1449956031"
+      "id": "way/1449955928"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1454136695",
+        "@id": "way/1449955930",
         "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "asphalt"
+        "highway": "footway"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -122.2792412,
-            37.8541035
+            -122.2360606,
+            37.7737524
           ],
           [
-            -122.2791942,
-            37.8541102
+            -122.2360557,
+            37.7737691
+          ],
+          [
+            -122.2360304,
+            37.7737712
           ]
         ]
       },
-      "id": "way/1454136695"
+      "id": "way/1449955930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449955932",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2359822,
+            37.7737745
+          ],
+          [
+            -122.2359532,
+            37.7737842
+          ],
+          [
+            -122.2359275,
+            37.7738126
+          ]
+        ]
+      },
+      "id": "way/1449955932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449955933",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2359532,
+            37.7737842
+          ],
+          [
+            -122.2359235,
+            37.773771
+          ]
+        ]
+      },
+      "id": "way/1449955933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449955935",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2361202,
+            37.7735569
+          ],
+          [
+            -122.2360396,
+            37.7736273
+          ]
+        ]
+      },
+      "id": "way/1449955935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449967046",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.201861,
+            37.7267798
+          ],
+          [
+            -122.2018334,
+            37.726752
+          ],
+          [
+            -122.2018114,
+            37.7267299
+          ]
+        ]
+      },
+      "id": "way/1449967046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449967049",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2018334,
+            37.726752
+          ],
+          [
+            -122.2018391,
+            37.7267221
+          ]
+        ]
+      },
+      "id": "way/1449967049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449967053",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2002012,
+            37.7292691
+          ],
+          [
+            -122.2001813,
+            37.7293182
+          ],
+          [
+            -122.2002003,
+            37.7293354
+          ]
+        ]
+      },
+      "id": "way/1449967053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449967058",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2001813,
+            37.7293182
+          ],
+          [
+            -122.2001616,
+            37.7293355
+          ]
+        ]
+      },
+      "id": "way/1449967058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449967061",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2001127,
+            37.7294159
+          ],
+          [
+            -122.2000939,
+            37.7294468
+          ]
+        ]
+      },
+      "id": "way/1449967061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449969477",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2002814,
+            37.7299532
+          ],
+          [
+            -122.2003012,
+            37.7299193
+          ]
+        ]
+      },
+      "id": "way/1449969477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1449969479",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2003513,
+            37.7298403
+          ],
+          [
+            -122.2003649,
+            37.7298216
+          ]
+        ]
+      },
+      "id": "way/1449969479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451871405",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1974559,
+            37.7357466
+          ],
+          [
+            -122.1974452,
+            37.7357889
+          ]
+        ]
+      },
+      "id": "way/1451871405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451891870",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1805304,
+            37.7693313
+          ],
+          [
+            -122.1805462,
+            37.7693481
+          ],
+          [
+            -122.1805371,
+            37.7693614
+          ]
+        ]
+      },
+      "id": "way/1451891870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451899266",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1713029,
+            37.7685848
+          ],
+          [
+            -122.1712974,
+            37.7685903
+          ],
+          [
+            -122.1712775,
+            37.7686072
+          ]
+        ]
+      },
+      "id": "way/1451899266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451899268",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1706592,
+            37.7681505
+          ],
+          [
+            -122.1706456,
+            37.768163
+          ],
+          [
+            -122.1706391,
+            37.7681683
+          ]
+        ]
+      },
+      "id": "way/1451899268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451899270",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1698198,
+            37.7676063
+          ],
+          [
+            -122.1698283,
+            37.767599
+          ],
+          [
+            -122.169843,
+            37.7675882
+          ]
+        ]
+      },
+      "id": "way/1451899270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1454001235",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.152131,
+            37.7540308
+          ],
+          [
+            -122.1521173,
+            37.7540107
+          ]
+        ]
+      },
+      "id": "way/1454001235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1454001244",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1528574,
+            37.753148
+          ],
+          [
+            -122.1528232,
+            37.7532105
+          ]
+        ]
+      },
+      "id": "way/1454001244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1454001251",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1545838,
+            37.7516485
+          ],
+          [
+            -122.1546086,
+            37.7516605
+          ]
+        ]
+      },
+      "id": "way/1454001251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1454001252",
+        "footway": "traffic_island",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.1545819,
+            37.7516669
+          ],
+          [
+            -122.1546086,
+            37.7516605
+          ],
+          [
+            -122.1546788,
+            37.7516674
+          ]
+        ]
+      },
+      "id": "way/1454001252"
     },
     {
       "type": "Feature",
@@ -4237,16 +4564,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.2422482,
-            37.8507616
+            -122.2422348,
+            37.8507635
           ],
           [
-            -122.2422457,
-            37.850781
-          ],
-          [
-            -122.2422373,
-            37.8507965
+            -122.2422251,
+            37.8507919
           ]
         ]
       },
@@ -4352,74 +4675,6 @@
         ]
       },
       "id": "way/1473688981"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1474824700",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2786388,
-            37.8625288
-          ],
-          [
-            -122.2786314,
-            37.8624941
-          ]
-        ]
-      },
-      "id": "way/1474824700"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1474824702",
-        "footway": "traffic_island",
-        "highway": "footway",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2788243,
-            37.8624782
-          ],
-          [
-            -122.2788302,
-            37.8625099
-          ]
-        ]
-      },
-      "id": "way/1474824702"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1479910510",
-        "footway": "traffic_island",
-        "highway": "footway"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -122.2810809,
-            37.8346865
-          ],
-          [
-            -122.2810399,
-            37.8346948
-          ]
-        ]
-      },
-      "id": "way/1479910510"
     },
     {
       "type": "Feature",
